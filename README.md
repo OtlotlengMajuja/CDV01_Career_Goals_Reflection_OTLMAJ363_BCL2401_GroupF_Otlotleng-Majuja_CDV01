@@ -16,65 +16,110 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Otlotleng Majuja
+- **Date:** 5 March 2024
+- **Current Role/Position:** Junior Developer
+- **Field of Interest:** Tech and Finance
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Technical skills: proficiency with version control systems like Git/GitHub, as well as my proficiency with the fundamentals of HTML and CSS and, basic principle designs. 
+    Soft skills: communication, empathy, attention to detail and problem-solving(identifying and resoolving bugs).
+
+    - Skills that I think require more attention are web performance optimization and front-end frameworks/libraries proficiency and time management as well.
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Key interests: visual and responsive design, interactivity and accessibility, learning new technologies and solving complex problems.
+
+    - Values: adaptability, continuous learning, respect, collaboration, work-life balance.
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Industries and roles: in the tech industry as a front-end developer. In the financial sector as a financial software engineer and risk management software engineer. In the healthcare sector as a healthcare software engineer. 
+
+    - The areas that piqued my interest are the roles of a financial software engineer and front-end developer. 
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - As a front-end developer I am able to immerse myself into the tech industry in learning new technologies to become a well-rounded professional and opportunities to interact and collaborate with colleagues. Whereas, as a financial software engineer, I will be able to be in an environment that allows for me to solve complex problems and expand on my problem solving abilities.
+
+    - An area that I would feel requires more of my attention is what the would be required from me as a financial software engineer and the difference between a typical fornt-end developer.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    Specific:
+        Goal: Develop proficiency in a specific front-end framework.
+    Measurable:
+        Goal: Complete two online courses on React.js fundamentals within the next three months.
+    Achievable:
+        Goal: Contribute to at least four GitHub open-source projects related to front-end development by the end of the year.
+    Relevant:
+        Goal: Improve understanding of responsive design principles to enhance user experience across different devices and screen sizes.
+    Time-bound:
+        Goal: Build and deploy a personal portfolio website showcasing projects and skills within the next six months.
+
+    - The rationale behind all of my goals are to measure progress, and work towards continuous improvement in my skills and knowledge.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Long-term career aspirations: lead a team of front-end developers on a complex web development project, demonstrating leadership and project management skills. 
+    - Obtain a professional certification in front-end development or a related field, such as web development, software engineering, or UX/UI design, within the next five years. Attend industry conferences, workshops, and networking events regularly to stay updated with the latest trends and technologies in front-end development and build a strong professional network. 
+    - Contribute to the tech community by sharing knowledge, mentoring junior developers, and actively participating in online forums, meetups, or local tech communities. 
+    - Aim for a senior front-end developer role or a specialized position in a specific area of front-end development, such as front-end architecture, performance optimization, or accessibility, within the next seven to ten years.
+
+    - They help develop a roadmap for my career advancement and work towards achieving my aspirations in the tech field.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    **Develop proficiency in a specific front-end framework:**
+    Identify the specific front-end framework you want to focus on (e.g., React.js, Angular, Vue.js).
+    Dedicate regular time for learning and practice, such as allocating a few hours each day or setting aside weekends for focused study.
+
+    **Complete two online courses on React.js fundamentals within the next three months:**
+    Research and enroll in reputable online courses or learning platforms that offer comprehensive coverage of React.js fundamentals.
+
+    **Contribute to at least four GitHub open-source projects related to front-end development by the end of the year:**
+    Explore GitHub repositories and projects that align with your interests and skill level in front-end development.
+    Start by making small contributions, such as fixing bugs, improving documentation, or adding features to existing projects.
+
+    **Improve understanding of responsive design principles to enhance user experience across different devices and screen sizes:**
+    Study resources and articles on responsive design principles, including fluid grids, flexible images, and media queries.
+    Experiment with building responsive layouts and components using HTML, CSS, and JavaScript.
+
+    **Build and deploy a personal portfolio website showcasing projects and skills within the next six months:**
+    Plan the structure and content of your portfolio website, including sections for projects, skills, resume, and contact information.
+    Choose a suitable web development stack (e.g., HTML/CSS, JavaScript, React.js) and hosting platform for building and deploying your website.
+    Set aside time to work on your portfolio website regularly, breaking down the development process into manageable tasks.
+
+    - For time management, the Notion app helps me keep track of my progress and holds me accountable. There are many courses offered on YouTube that assist in filling in the gaps when I am in need of troubleshooting an issue I might have with code or understand a concept.
+
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Clarifying my goals guides my effort and decision making process. Identifying the specific skills and knowledge areas you need to achieve my goals. Building a strong professional network within the front-end development community. Creating a portfolio of my work to demonstrate my skills and accomplishments to potential employers or clients. Building a strong personal brand.
+
+    - Consider additional skills, experiences, or qualifications needed. Testing and debuggig, command line proficiency and cross-browser compatibility.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Potential obstacles that I anticipate are definitely imposter syndrome, time management, finding a work-life equilibrium and stress management.  
+
+    - Mindfulness and relaxation techniques, taking breaks and some time off, prioritizing a healthy lifestyle, seeking professional help when I become overwhelmed.
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - The Student Ambassador program offered by CodeSpace could potentially add to my resume for potential employers, and growth as an individual. Building my profile and skillset by freelancing as a debugger, building websites or apps.
+    - The Meetup platform offers opportunities to network with like-minded individuals that are in the same insutry as you with seminars, hosting events in the community that you have etc. Udemy offers educational opportunities to expand your skillset.
 
 ### Submission
 
